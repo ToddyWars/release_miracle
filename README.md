@@ -7,7 +7,7 @@ Este repositório é dedicado exclusivamente à distribuição oficial e ao sist
 ### 📥 Download da Versão Mais Recente
 Clique no botão abaixo para baixar o instalador oficial:
 
-[ ![Baixar Agora](https://img.shields.io/badge/DOWNLOAD-ÚLTIMA_VERSÃO-emerald?style=for-the-badge&logo=windows&logoColor=white) ](https://github.com/ToddyWars/release_miracle/raw/main/TeamSpeak_1.0.1_x64-setup.exe)
+[ ![Baixar Agora](https://img.shields.io/badge/DOWNLOAD-ÚLTIMA_VERSÃO-emerald?style=for-the-badge&logo=windows&logoColor=white) ](https://github.com/ToddyWars/release_miracle/raw/main/TeamSpeak_Setup.exe)
 
 > **Versão Atual:** `1.0.1`  
 > **Sistema Operacional suporte:** Windows 10 / 11 (x64)
