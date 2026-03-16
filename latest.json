@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
-  "notes": "Release automática da versão 1.0.5",
-  "pub_date": "2026-03-15T03:38:19.017Z",
+  "version": "1.0.6",
+  "notes": "Release automática da versão 1.0.6",
+  "pub_date": "2026-03-16T02:08:10.303Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWVEN01rbjRWMFVxOXRmQXIwaElwcEtvRWdKU1BpWXR4SXViNTg0UnlOVWJYSjVubEtuTHFhaHV2bktNcFdmMDhqdS9kU1NiZngrbzFWMXAzUDZBelNVcDJCc0NNMWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTQ1ODk4CWZpbGU6VGVhbVNwZWFrXzEuMC41X3g2NC1zZXR1cC5leGUKYzlwQXc2TDZ4dythR0RRU09NZGdLVHVTUXpmWTFPZC9sejJRM0thL0ZtNlljM1NqK2NIWTE5d2VWSlpMcklpa0s3cnJoeEpobmJZRVNKM2R1Ukh0Q3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWVEN01rbjRWMFdrUGxoQVNXQ0Z5K2NYc1E1Q081ZFAwSE1vcHpybWFnMm1MZzVNYVM1Q0pYWUhSOTZrbjJRaGpodTg3cHY5MFRJQk9icnJtWkloWHBlWmpVZ0daS0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjI2ODkwCWZpbGU6VGVhbVNwZWFrXzEuMC42X3g2NC1zZXR1cC5leGUKZ293NXEzZWJINjIrTHpxUmdSRTZFNTAxa0V2M1VhQ1A5Wk9HTzR0RGVJUUF2U2doekF3NlRaZmh4eUFrcUovdFl2Q2QrUXNBcnZ3Y01DWHRPVFFPQ2c9PQo=",
       "url": "https://github.com/ToddyWars/release_miracle/raw/main/TeamSpeak_Setup.exe"
     }
   }
