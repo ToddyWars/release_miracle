@@ -9,7 +9,7 @@ Clique no botão abaixo para baixar o instalador oficial:
 
 [ ![Baixar Agora](https://img.shields.io/badge/DOWNLOAD-ÚLTIMA_VERSÃO-emerald?style=for-the-badge&logo=windows&logoColor=white) ](https://github.com/ToddyWars/release_miracle/raw/main/TeamSpeak_Setup.exe)
 
-> **Versão Atual:** `1.0.6`  
+> **Versão Atual:** `1.0.7`  
 > **Sistema Operacional suporte:** Windows 10 / 11 (x64)
 
 ---
